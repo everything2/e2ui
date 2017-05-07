@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import E2container from './E2container';
 import './index.css';
 
 ReactDOM.render(
-  <App />,
+  <E2container />,
   document.getElementById('root')
 );
